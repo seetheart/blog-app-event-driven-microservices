@@ -4,5 +4,4 @@
 3. Run all the services in different terminals
 
 # TODO
-1. Create docker images and use kubernetes for scaling infrastructure
-2. Create common library for all the services
+1. Create common library for all the services
